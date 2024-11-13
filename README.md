@@ -12,16 +12,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-## 💻 Skills & Technologies
-
-### 🎯 Core Expertise
-- Embedded Firmware Development (C, ARM Cortex-R4F)
-- DSP Programming (C674x)
-- Radar Technology (24GHz, 77GHz FMCW)
-- Signal Processing & Algorithm Development
-- Desktop Application Development (.NET, WinForms)
-- Data Analysis (Python, Jupyter Notebook)
-
 ### 🛠️ Tools & Frameworks
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -40,13 +30,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 🌟 Highlights
-- 🎯 Developed perimeter security systems using radar technology
-- 🔬 Implemented advanced tracking algorithms using Extended Kalman Filter
-- 🤖 Worked on target classification systems (human, animal, vehicle)
-- 📊 Experience in data analysis and visualization
-- 👨‍🏫 Taught software development courses
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathieu-treves-253ba5172/)
