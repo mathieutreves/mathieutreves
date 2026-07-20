@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About me
 - 🛠️ Firmware/Software Developer @ GPS Standard
-- 📚 Studying Cybersecurity @ Politecnico di Torino
+- 📚 Msc in Cybersecurity @ Politecnico di Torino
 - 🎯 Specialized in embedded systems and radar technology
 - 🌍 Based in Saint-Vincent, Valle d'Aosta, Italy
 
